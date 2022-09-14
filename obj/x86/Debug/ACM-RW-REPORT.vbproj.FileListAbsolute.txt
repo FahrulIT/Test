@@ -1,0 +1,12 @@
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM-RW-REPORT.vbprojResolveAssemblyReference.cache
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM_RW_REPORT.frm_monthly_report_of_rw_stock_print.resources
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM_RW_REPORT.frm_report.resources
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM_RW_REPORT.Resources.resources
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM-RW-REPORT.vbproj.GenerateResource.Cache
+D:\APPL\ACM-RW-REPORT\bin\Debug\ACM-RW-REPORT.exe
+D:\APPL\ACM-RW-REPORT\bin\Debug\ACM-RW-REPORT.pdb
+D:\APPL\ACM-RW-REPORT\bin\Debug\ACM-RW-REPORT.xml
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM-RW-REPORT.exe
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM-RW-REPORT.xml
+D:\APPL\ACM-RW-REPORT\obj\x86\Debug\ACM-RW-REPORT.pdb
+D:\APPL\ACM-RW-REPORT\bin\Debug\ACM-RW-REPORT.exe.config
