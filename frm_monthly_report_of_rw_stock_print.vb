@@ -1015,6 +1015,7 @@ Public Class frm_monthly_report_of_rw_stock_print
             Next
             total_balance_today = total_balance_today
             kon.Close()
+            'tes
 
             If output = True Then 'SCREEN
                 Dim frmReport As frm_report
